@@ -10,7 +10,7 @@ namespace ThinCharm\Engine;
 
 use ParagonIE\Halite\Asymmetric\Crypto;
 use ParagonIE\Halite\Symmetric\Crypto;
-use ParagonIE\Halite\KeyFactory:
+use ParagonIE\Halite\KeyFactory;
 use ParagonIE\Halite\Cookie;
 use ParagonIE\Halite\File;
 
