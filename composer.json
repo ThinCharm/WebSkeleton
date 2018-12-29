@@ -2,6 +2,7 @@
     "name": "thincharm/web-skeleton",
     "description": "A fast and secure web skeleton powered by Symfony",
     "keywords": [],
+    "license": "MIT",
     "require": {
         "php": ">=7.1",
         "doctrine/orm": "^2.6",
