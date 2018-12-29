@@ -2,7 +2,6 @@
     "name": "thincharm/web-skeleton",
     "description": "A fast and secure web skeleton powered by Symfony",
     "keywords": [],
-    "license": "MIT",
     "require": {
         "php": ">=7.1",
         "doctrine/orm": "^2.6",
@@ -11,6 +10,7 @@
         "league/oauth2-server": "^7.3",
         "league/omnipay": "^3.0",
         "paragonie/halite": "^4.4",
+        "paragonie/hidden-string": "^1.0",
         "swiftmailer/swiftmailer": "^6.1",
         "symfony/cache": "^4.2",
         "symfony/console": "^4.2",
