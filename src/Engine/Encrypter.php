@@ -3,7 +3,7 @@ declare(strict_types=1);
 /**
  * WebSkeleton - A fast and secure web skeleton powered by Symfony.
  * @author WebSkeleton Contributors <https://github.com/ThinCharm/WebSkeleton/graphs/contributors>
- * @link <https://github.com/XChess> WebSkeleton.
+ * @link <https://github.com/ThinCharm/WebSkeleton> WebSkeleton.
  */
 
 namespace ThinCharm\Engine;
