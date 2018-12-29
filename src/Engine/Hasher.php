@@ -103,6 +103,8 @@ class Hasher implements HasherInterface
     /**
      * Get the hasher instance.
      *
+     * @throws UnexpectedValueException If the algo could not be determined.
+     *
      * @return mixed The hasher instance.
      */
     private function getHasherInstance()
